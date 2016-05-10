@@ -11,4 +11,4 @@ sudo bundle exec ruby main.rb
 
 ## Testing:
 
-`dig @localhost -p 5300 dotbitwhois.bit`
+`dig @localhost -p 53 dotbitwhois.bit`
